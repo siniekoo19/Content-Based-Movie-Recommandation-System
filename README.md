@@ -32,11 +32,11 @@ https://github.com/siniekoo19/Content-Based-Movie-Recommandation-System/assets/1
 
 ## Link for the dataset
 
-[SMS Spam Classification Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+[TMDB Movie Metadata Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
 ## Acknowledgments
 
-- Thanks to [kaggel](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) for providing the spam email dataset used in this project.
+- Thanks to [kaggel](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) for providing the dataset used in this project.
 - Special thanks to the open-source community for their invaluable contributions to the tools and libraries used in this project.
 
 ## Feedback
